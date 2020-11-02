@@ -1,2 +1,2 @@
 # foldersort
-# Doit déplacer les fichier du dosser 1 au dossier 2
+# Doit déplacer les fichiers du dossier 1 au dossier 2
